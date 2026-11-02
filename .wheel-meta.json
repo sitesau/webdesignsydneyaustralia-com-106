@@ -1,0 +1,22 @@
+{
+  "wheel_id": 681,
+  "structure": "umbrella",
+  "slug": "webdesignsydneyaustralia-com-106",
+  "project": "web-design-sydney-signs-you-need-5bdb30b154489307ef6ae131ccb33f",
+  "parent_t1_ref": "webdesignsydneyaustralia-com-152",
+  "node_role": "feeder",
+  "money_target": "webdesignsydneyaustralia.com.au",
+  "primary_kw": "web design sydney signs you need",
+  "intended_url": "https://sitesau.github.io/webdesignsydneyaustralia-com-106/",
+  "tier": "T2",
+  "writeback_nonce": "e2ca393db90477aa",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/web-design-sydney-how-to-choose-7227f593b39793f9ea4e08a4cd2d540/",
+      "anchor": "Web Design Sydney How to Choose: Choosing the Right Provider",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
